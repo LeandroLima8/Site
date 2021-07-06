@@ -1,2 +1,2 @@
 # Site
-: bulb: Site
+Site
